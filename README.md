@@ -1,66 +1,62 @@
-## Hi, I'm Xylo 👋
+# Xylo
 
-### 👤 About Me
+**17 y/o developer from Portugal 🇵🇹**
 
-* 🔭 Currently working on: **personal projects & communities**
-* 📫 How to reach me: [Discord](https://discord.com/)
-* 🌍 Location: **Portugal** 🇵🇹
-* 🎂 Age: **17y**
-* ⚡ Always building something new
+> turning ideas into code.
 
 ---
 
-### 🛠️ Languages & Tools
+### `01` — currently
 
-<table>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br />
-      <strong>Python</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48" height="48" alt="TypeScript" /><br />
-      <strong>TypeScript</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br />
-      <strong>JavaScript</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br />
-      <strong>Node.js</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br />
-      <strong>MongoDB</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br />
-      <strong>PostgreSQL</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /><br />
-      <strong>HTML</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /><br />
-      <strong>CSS</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br />
-      <strong>Git</strong>
-    </td>
-  </tr>
-</table>
+```text
+▸ coding        ███████████████░░  85%
+▸ learning      ████████████░░░░░  70%
+▸ building      ██████████████░░░  80%
+```
+
+Working on different projects, experimenting with new technologies and trying to make things that are actually useful.
 
 ---
 
-### 📈 GitHub Stats
+### `02` — stack
 
-![Xylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xylo\&show_icons=true\&theme=tokyonight\&hide_border=true)
+**Languages**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xylo\&theme=tokyonight\&hide_border=true)
+`Python` · `JavaScript` · `TypeScript` · `C#`
+
+**Backend**
+
+`Node.js` · `Express` · `PostgreSQL` · `MongoDB`
+
+**Other**
+
+`Git` · `REST APIs` · `HTML` · `CSS`
+
+---
+
+### `03` — somewhere online
+
+* 💬 Discord — **xylo**
+* 🐙 GitHub — **@xylo**
+* 🌎 Portugal
+
+---
+
+### `04` — random stuff
+
+```text
+[+] 17 years old
+[+] always learning
+[+] probably coding at 3am
+[+] coffee > sleep
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xylo&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <sub>© Xylo — built with code and too much caffeine.</sub>
+</p>
